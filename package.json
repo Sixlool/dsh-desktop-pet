@@ -1,0 +1,29 @@
+{
+  "name": "dsh-desktop-pet",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness 桌宠：立绘状态切换（思考/完成/出错）、可拖拽、侧栏开关、点击气泡。动态 Cordis 插件源码包。",
+  "type": "module",
+  "main": "lib/host.js",
+  "exports": {
+    "./host": "./lib/host.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "res",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "desktop-pet",
+    "cordis",
+    "plugin"
+  ]
+}
