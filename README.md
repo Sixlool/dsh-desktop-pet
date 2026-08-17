@@ -2,6 +2,9 @@
 
 在 DeepSeek Harness Web 界面养一只**女仆鲸娘桌宠**：跟着 Agent 的状态换表情立绘，可拖拽、可开关、点击会说话。
 
+> 👤 作者：[@Sixlool](https://github.com/Sixlool)
+> 📦 相关项目：[dsh-skill-picker（Skill 选择器）](https://github.com/Sixlool/dsh-skill-picker) · [dsh-interactive-dev-skill（AI 开发方法论 Skill）](https://github.com/Sixlool/dsh-interactive-dev-skill)
+
 ![pet-3](res/pet-3.png)
 
 ## ✨ 功能
